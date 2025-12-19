@@ -26,7 +26,7 @@ export default function Navbar() {
                 <div className="flex items-center gap-2 cursor-pointer group">
                     <div className="relative w-40 h-10">
                         <Image
-                            src="/logo.png"
+                            src="/celevix.png"
                             alt="Celevix Logo"
                             fill
                             className="object-contain object-left"
